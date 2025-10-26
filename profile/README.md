@@ -5,5 +5,5 @@
 - [Github](https://github.com/orgs/FMI-MediaMaster/packages?ecosystem=npm)
 
 ## Docker Images
-- [Github]([https://github.com/orgs/FMI-MediaMaster/packages?ecosystem=npm](https://github.com/orgs/FMI-MediaMaster/packages?ecosystem=container))
+- [Github](https://github.com/orgs/FMI-MediaMaster/packages?ecosystem=container)
 
