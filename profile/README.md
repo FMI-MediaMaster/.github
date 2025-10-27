@@ -2,8 +2,8 @@
 ### **[App](https://github.com/FMI-MediaMaster/MediaMaster)**
 
 ## NPM Packages
-- [NPM](https://www.npmjs.com/org/media-master?activeTab=packages)
 - [Github](https://github.com/orgs/FMI-MediaMaster/packages?ecosystem=npm)
+- [NPM](https://www.npmjs.com/org/media-master?activeTab=packages)
 
 <details>
   <summary><a href="https://github.com/FMI-MediaMaster/NpmTemplate">NPM Package Template</a></summary>
