@@ -20,6 +20,6 @@
 
 <details>
   <summary><a href="https://github.com/FMI-MediaMaster/ServerTemplate">Microservice Server Template</a></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/metadata-service-tests">metadata-service-tests</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/TMDB-Service">TMDB Service</a> <br>
 </details>
 
