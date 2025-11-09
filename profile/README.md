@@ -21,10 +21,10 @@
 
 <details>
   <summary><a href="https://github.com/FMI-MediaMaster/ServerTemplate">Microservice Server Template</a></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/TMDB-Service">TMDB Service</a>           <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/User-Service">User Service</a>           <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/PCGW-Service">PCGW Service</a>           <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/Goodreads-Service">Goodreads Service</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/TMDB-Service">TMDB Service</a>           <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/User-Service">User Service</a>           <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/PCGW-Service">PCGW Service</a>           <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/Goodreads-Service">Goodreads Service</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/Anilist-Service">Anilist Service</a>     <br>
 </details>
 
