@@ -20,11 +20,16 @@
 - [DockerHub](https://hub.docker.com/repositories/mediamasterorg)
 
 <details>
-  <summary><a href="https://github.com/FMI-MediaMaster/ServerTemplate">Microservice Server Template</a></summary>
+  <summary><a href="https://github.com/FMI-MediaMaster/ServerTemplate">Node.JS Microservice Server Template</a></summary>
   &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/Anilist-Service">Anilist Service</a>     <br>
   &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/Hardcover-Service">Hardcover Service</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/PCGW-Service">PCGW Service</a>           <br>
   &nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp; <a href="https://github.com/FMI-MediaMaster/TMDB-Service">TMDB Service</a>           <br>
   &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/User-Service">User Service</a>           <br>
+</details>
+
+<details>
+  <summary>Python Microservice Server</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp; <a href="https://github.com/FMI-MediaMaster/HLTB-Service">HLTB Service</a>           <br>
 </details>
 
